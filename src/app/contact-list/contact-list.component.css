@@ -17,7 +17,19 @@ form {
 ul {
   list-style-type: none;
 }
+
 li {
   margin-top: 20px;
   width: 30%;
+}
+
+button {
+  font-weight: 600;
+  background-color: orangered;
+  margin-left: 40px;
+}
+
+div {
+  margin-left: 10px;
+  margin-bottom: 20px;
 }
